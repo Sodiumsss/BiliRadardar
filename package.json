@@ -1,0 +1,23 @@
+{
+  "name": "bili-radardar",
+  "version": "1.2.0",
+  "description": "B站成分雷达与串子识别油猴脚本 (BiliRadardar)",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "watch": "rollup -c -w"
+  },
+  "keywords": [
+    "userscript",
+    "tampermonkey",
+    "bilibili",
+    "typesafe-ai",
+    "jev"
+  ],
+  "author": "xulaupuz, trychen, oyyo",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "rollup": "^4.24.0"
+  }
+}
